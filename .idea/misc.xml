@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/drawable/color_shape.xml" value="0.37864583333333335" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/drawable/dislog_bag.xml" value="0.34444444444444444" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/drawable/drip_shspe.xml" value="0.37864583333333335" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/drawable/ic_baseline_brightness_5_24.xml" value="0.3645833333333333" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/drawable/ic_baseline_fullscreen_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/drawable/redo.xml" value="0.37864583333333335" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/drawable/white_bsg.xml" value="1.5535714285714286" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_adjusment.xml" value="0.25" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_adjust_ment.xml" value="0.36666666666666664" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_basic_filter_demo.xml" value="0.36666666666666664" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_drip.xml" value="0.36666666666666664" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_edit.xml" value="0.36666666666666664" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_filter.xml" value="0.3619791666666667" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_filter_demo.xml" value="0.36666666666666664" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_fit.xml" value="0.3278985507246377" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_main2.xml" value="0.3619791666666667" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_my_cration.xml" value="0.3625" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_potrai.xml" value="0.3625" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_preview.xml" value="0.3625" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_spiral_activty.xml" value="0.3619791666666667" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_start.xml" value="0.36666666666666664" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/activity_still_cut.xml" value="0.3619791666666667" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/ad_unified.xml" value="0.3619791666666667" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/color_row.xml" value="0.3625" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/cropy_lsayout.xml" value="0.3374094202898551" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/filter_row.xml" value="0.3278985507246377" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/image_row.xml" value="0.3625" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/image_row2.xml" value="0.3625" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/list_thumbnail_item.xml" value="0.3619791666666667" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/row_resource.xml" value="0.3625" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/layout/select_dialog.xml" value="0.2826086956521739" />
+        <entry key="..\:/project/RemoveBAckgeround/app/src/main/res/xml/file_paths.xml" value="0.36666666666666664" />
+        <entry key="..\:/project/RemoveBAckgeround/aspectratiorecyclerviewlib/src/main/res/layout/item_aspect_ratio.xml" value="0.15" />
+        <entry key="..\:/project/RemoveBAckgeround/cgeDemo/src/main/res/layout/activity_filter_demo.xml" value="0.3278985507246377" />
+        <entry key="..\:/project/RemoveBAckgeround/cgeDemo/src/main/res/layout/activity_main.xml" value="0.3278985507246377" />
+        <entry key="..\:/project/RemoveBAckgeround/croppylib/src/main/res/drawable/background_rounded_text.xml" value="0.36944444444444446" />
+        <entry key="..\:/project/RemoveBAckgeround/croppylib/src/main/res/drawable/ic_cancel.xml" value="0.36944444444444446" />
+        <entry key="..\:/project/RemoveBAckgeround/croppylib/src/main/res/drawable/ic_check.xml" value="0.36944444444444446" />
+        <entry key="..\:/project/RemoveBAckgeround/croppylib/src/main/res/layout/activity_croppy.xml" value="0.3328804347826087" />
+        <entry key="..\:/project/RemoveBAckgeround/croppylib/src/main/res/layout/fragment_foo.xml" value="0.3328804347826087" />
+        <entry key="..\:/project/RemoveBAckgeround/croppylib/src/main/res/layout/fragment_image_crop.xml" value="0.19384057971014493" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222052449016",
+    "project_id": "removebackgeround",
+    "storage_bucket": "removebackgeround.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222052449016:android:349cfbb6a240096fa1190d",
+        "android_client_info": {
+          "package_name": "com.chetssholic.removebackgeround"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222052449016-knjp3ateq989uvk6cc0osfutid3fnklr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBixA48aEtgrZier3OM6Bh38xxaMO8mURY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222052449016-knjp3ateq989uvk6cc0osfutid3fnklr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

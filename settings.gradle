@@ -1,0 +1,9 @@
+
+rootProject.name = "RemoveBAckgeround"
+include ':app'
+
+
+
+include ':croppylib'
+
+include ':aspectratiorecyclerviewlib'

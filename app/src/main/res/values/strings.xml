@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">PhotoHollic</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_filter_demo2">FilterDemoActivity2</string>
+
+    <string name="title_activity_filter_demo">FilterDemoActivity</string>
+
+    <string name="title_activity_camera_demo">CameraDemoActivity</string>
+
+    <string name="title_activity_video_player">VideoPlayerActivity</string>
+
+    <string name="title_activity_image_deform">ImageDeformActivity</string>
+
+    <string name="title_activity_face_tracker_demo">FaceTrackerDemo</string>
+
+
+    <string name="rationale_location_contacts">Allow Application to access photos,media,and files on your device!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="please_select_picture">please_select_pic</string>
+    <string name="cut_success">cut_success</string>
+
+
+    <string name="image_chooser_message">Choose an image to cut</string>
+
+
+    <string name="ad_attribution">Ad</string>
+
+
+
+
+
+    //test id
+    <string name="add_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="inter_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="native_ad_unit_id">ca-app-pub-3940256099942544/2247696110</string>
+
+
+
+
+<!--    //live id-->
+<!--    <string name="add_id">ca-app-pub-3499781945684633~9125651179</string>-->
+<!--    <string name="inter_ad_unit_id">ca-app-pub-3499781945684633/9333534739</string>-->
+<!--    <string name="banner_ad_unit_id">ca-app-pub-3499781945684633/8718209646</string>-->
+<!--    <string name="native_ad_unit_id">ca-app-pub-3499781945684633/1921948574</string>-->
+
+
+
+
+
+
+
+</resources>
